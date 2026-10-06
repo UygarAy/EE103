@@ -1,6 +1,6 @@
-a = 1234
-b = 8.99
-c = True
+a = float(123)
+b = round(7.9)
+c = int(7.2)
 
 print(type(a))
 print(type(b))
